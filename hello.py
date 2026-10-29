@@ -2,4 +2,4 @@ def add(a, b):
     return a + b
 
 assert add(2, 3) == 5
-print("All tests passed!")
+print("CI workflow tested successfully!")
